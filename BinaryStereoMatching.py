@@ -1,5 +1,3 @@
-# Created by Felix N. at 14.01.2019
-
 import numpy as np
 from matplotlib import pyplot as plt
 import config

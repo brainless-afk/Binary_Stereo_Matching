@@ -6,3 +6,7 @@ correspondence problem for rectified stereo images with a BRIEF-based binary pat
 Rectified stereo images from http://vision.middlebury.edu/stereo/data/ .
 
 Use the config file to change parameters of the binary stereo matching algorithm before running.
+
+Example output with Tsukuba dataset:
+
+![Disparity Map](/Disparity_blockSize_27_n_300_dmax_35.png)
